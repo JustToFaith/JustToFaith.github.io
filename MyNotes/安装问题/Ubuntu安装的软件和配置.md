@@ -1,7 +1,0 @@
-- VScode
-- Pycharm
-- Chrome
-- Typora
-- ssr
-- shadsocke
-- cerebro  快速启动器
